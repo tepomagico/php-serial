@@ -1,4 +1,4 @@
-#summary A few online resources about
+#summary A few online resources about serial modem/gsm communication
 
 = Links =
 http://www.smssolutions.net/tutorials/gsm/sendsmsat/

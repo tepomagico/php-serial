@@ -1,4 +1,4 @@
-#GSM modem protocol
+# GSM modem advanced commands protocol
 
 = Some links about complex sms handling =
 
